@@ -1,0 +1,6 @@
+[submodule "Catch"]
+	path = Catch
+	url = https://github.com/philsquared/Catch.git
+[submodule "libopengnc"]
+	path = libopengnc
+	url = https://github.com/opengnc/libopengnc.git
